@@ -16,4 +16,10 @@ public class Rook extends ChessPiece{
 		return "R"; 
 	}
 
+	@Override
+	public boolean[][] possibleMoves() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
